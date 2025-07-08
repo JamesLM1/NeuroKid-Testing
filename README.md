@@ -1,84 +1,58 @@
-<div align="center">
-  <img src="https://i.imgur.com/qDjDCC8.png" alt="MasterHead" />
-</div>
-<div align="center">
-  <h1>Quakenet Landing</h1>
-</div>
-
-Quakenet es una plataforma web avanzada para la **gestión integral de riesgos sísmicos**. Proporciona **alertas tempranas**, predice y analiza sismos y terremotos, facilitando una respuesta rápida y efectiva para proteger a **empresas y centros educativos** y reducir riesgos.
-
+<div align="center"> <img src="https://i.imgur.com/qDjDCC8.png" alt="NeuroKid Banner" /> </div> <div align="center"> <h1>NeuroKid - Desarrollo Cognitivo Infantil</h1> </div>
+NeuroKid es una plataforma digital educativa enfocada en la detección temprana de dificultades cognitivas en niños. Utilizando inteligencia artificial, evaluaciones interactivas y un sistema de seguimiento profesional, NeuroKid ofrece herramientas personalizadas para padres, psicólogos y centros educativos que desean potenciar el desarrollo integral infantil desde los primeros años.
 ---
+🚀 Tecnologías utilizadas
+Este proyecto fue desarrollado aplicando tecnologías web modernas, centradas en la eficiencia, accesibilidad y experiencia del usuario:
 
-## 🚀 Tecnologías utilizadas
+HTML5 & CSS3 – Base del desarrollo web semántico y responsivo.
 
-Este proyecto se desarrolló utilizando una serie de tecnologías modernas que permiten un rendimiento óptimo y una experiencia de usuario rica:
+JavaScript – Validación de formularios e interacción del cliente.
 
-- **React.js**: Librería JavaScript para construir interfaces de usuario.
-- **Astro**: Framework para generar sitios web estáticos.
-- **BEM CSS**: Metodología para una estructura de CSS más clara y modular.
-- **Sharp**: Herramienta para optimización de imágenes.
+Astro (recomendado para futuras versiones) – Framework para sitios estáticos rápidos.
 
+FormSubmit – Servicio para envío de formularios sin backend.
+
+GitHub Pages – Hosting del sitio web estático.
+
+👥 Equipo de Desarrollo
 ---
+James Lucas Moreto - U202317816
 
-## 👥 Participantes
+Alonso Yataco Anicama - U202314539
 
-A continuación, se presentan los miembros del equipo y sus respectivos identificadores:
+Ashcallay Sanchez Rodrigo - U202310930
 
-- **Almerco Rojas, Jocelyn Damaly** - u20221G068
-- **Chi Cruzatt, Kevin Jorge** - u202313655
-- **Inga Orihuela, Christian Fabrizio** - u20231C111
-- **Jiménez Guerra, Gianmarco Fabian** - u202123843
-- **Lucas Moreto, James** - u202317816
-- **Oroncoy Almeyda, Alejandro** - u202313397
-- **Rivera Sosa, Eduardo Gael** - u202312222
-- **Tantaleán Mesta, Guillermo Fabian** - u202311958
+Denzel Alberto Castillo Sanchez - U202311836
 
+📜 Changelog
 ---
-
-## 📜 Changelog
-
-### _Versión 0.3.6_
-- Se cambio la palabra "Listo", en el apartado de "protege tu negocio", por la palabra "Estas listo".
-
-### _Versión 0.3.5_
-- Se actualizó Github Actions scripts para CI.
-
-### _Versión 0.3.4_
-- Se arregló problemas de responsive web design en pantallas con grandes dimensiones (ancho mayor a 1568px)
-- Se arregló textos de la landing page
-- Se cambió la palabra "Listo" en el apartado de Protege tu negocio por la palabra "Estas listo" 
-
-### _Versión 0.3.3_
-- Se actualizó la sección de **OurSolutions** y se mejoró la navegación en Header
-
 ### _Versión 0.3.2_
-- Se actualizó el responsive design de la página de **Contacto**.
-### _Versión 0.3.2_
-- Se actualizó el responsive design de la página de **Contacto**.
+Se mejoró la sección de contacto empresarial.
+
+Se implementó validación de formularios con mensajes de éxito y error.
+
+Se adaptó código externo para enviar formularios usando JS y FormSubmit.
 
 ### _Versión 0.3.1_
-- Configuración para firebase Hosting.
+Se agregó la página de registro dual para usuarios (padres) y profesionales (psicólogos).
+
+Estilos adaptados con diseño limpio y responsivo para formularios.
 
 ### _Versión 0.3.0_
-- Configuración inicial de las dependencias (React.js, Astro).
-- Se agregó la página de contacto
-- Se implementó API con conexión a Base de Datos Mysql
-- Creación de los componentes **Contact**, **ContactForm**.
-- Además, se arregló bugs de la primera versión:
-  * Links sin funcionalidad (secciones de la página principal)
+Se actualizó el diseño del landing page.
+
+Integración de secciones nuevas: Testimonios, Formulario de Opinión, CTA para empresas.
 
 ### _Versión 0.2.0_
-- Configuración inicial de las dependencias (React.js, Astro).
-- Se agregó la página sobre nosotros.
-- Creación de los componentes **AboutUs**, **MisionAndValues** y **OurTeam**.
-- Además, se arregló bugs de la primera versión:
-  * Links sin funcionalidad (Header y footer)
-  * Responsive en la página principal
+Se implementó el diseño completo de Sobre Nosotros, incluyendo Misión, Visión y Equipo.
+
+Mejora de estructura HTML semántica y uso de componentes reutilizables.
 
 ### _Versión 0.1.0_
-- Configuración inicial de las dependencias (React.js, Astro).
-- Desarrollo del layout principal y la página inicial.
-- Creación de los componentes **Hero**, **OurSolutions**, **RiskViewer** y **SeismicRiskMapPeru**.
-- Implementación de los componentes **Header** y **Footer**.
+Estructura inicial del sitio creada.
 
----
+Página principal con secciones de introducción, soluciones y navegación funcional.
+
+Se configuró GitHub Pages para despliegue automático.
+
+📌 Estado del Proyecto
